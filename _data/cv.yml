@@ -13,16 +13,16 @@
       institution: University of Lausanne, Lausanne, Switzerland
       year: 2020 - now
       description:
-        - title: Thesis &#58; Genomic Causes and Consequences of Hybridization in Insects
+        - title: Thesis, Genomic Causes and Consequences of Hybridization in Insects
           contents:
             - Tanja Schwander
     - title: MSc in Behaviour, Evolution, and Conservation. Specialization in Computational Ecology and Evolution
       institution: University of Lausanne, Lausanne, Switzerland
       year: 2020 - 2022
       description:
-        - title: Thesis &#58; The Effects of Genome Features on Tandem Repeat DNA Patterns
+        - title: Thesis, The Effects of Genome Features on Tandem Repeat DNA Patterns
         contents:
-        - Tanja Schwander
+          - Tanja Schwander
     - title: BSc in Ecology, Evolution, and Animal Behavior, Plant and Microbial Biology
       institution: University of Minnesota, Twin Cities, USA
       year: 2016 - 2020
@@ -54,7 +54,7 @@
 - title: Outreach
   type: time_table
   contents:
-    - title: Scholarship Chair &#58; Alpha Sigma Kappa-Women in Technical Studies, Alpha Alumni Chapter 
+    - title: Scholarship Chair, Alpha Sigma Kappa-Women in Technical Studies, Alpha Alumni Chapter 
       year: 2020 - now
       description: Organizing and distributing yearly scholarships to women in undergraduate STEM studies
 
