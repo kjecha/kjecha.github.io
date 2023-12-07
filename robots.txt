@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://kjecha.github.io/al-folio/sitemap.xml
+Sitemap: https://kjecha.github.io/sitemap.xml
