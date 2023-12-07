@@ -21,16 +21,16 @@
       year: 2020 - 2022
       description:
         - title: Thesis, The Effects of Genome Features on Tandem Repeat DNA Patterns
-        contents:
-          - Tanja Schwander
+          contents:
+            - Tanja Schwander
     - title: BSc in Ecology, Evolution, and Animal Behavior, Plant and Microbial Biology
       institution: University of Minnesota, Twin Cities, USA
       year: 2016 - 2020
       description:
-        - title:
-        contents: 
-        - Marine Biology
-        - Fisheries, Wildlife, and Conservation Biology
+        - title: Minors
+          contents: 
+            - Marine Biology
+            - Fisheries, Wildlife, and Conservation Biology
 
 - title: Experience
   type: time_table
@@ -66,12 +66,12 @@
         - FBM Special Award for Outstanding Dedication in Practical Teaching   
     - year: 2020
       items: 
-        - UNIL Master`s Grant  
+        - UNIL Master's Grant  
     - year: 2020
       items: 
-        - College of Biological Sciences Dean`s List 
+        - College of Biological Sciences Dean's List 
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Rock Climbing, Knitting/Crochet, Cello
+    - "<u>Hobbies:</u> Rock Climbing, Knitting/Crochet, Cello"
