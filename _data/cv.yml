@@ -23,16 +23,14 @@
         - title: Thesis- The Effects of Genome Features on Tandem Repeat DNA Patterns
         contents:
         - Tanja Schwander
-    - title: BSc in Ecology, Evolution, and Animal Behavior / Plant and Microbial Biology
-      institution: University of Minnesota-Twin Cities, USA
+    - title: BSc in Ecology, Evolution, and Animal Behavior, Plant and Microbial Biology
+      institution: University of Minnesota, Twin Cities, USA
       year: 2016 - 2020
       description:
         - title:
         contents: 
         - Marine Biology
         - Fisheries, Wildlife, and Conservation Biology
-
-       
 
 - title: Experience
   type: time_table
@@ -56,8 +54,8 @@
 - title: Outreach
   type: time_table
   contents:
-    - title: Scholarship Chair - Alpha Sigma Kappa-Women in Technical Studies, Alpha Alumni Chapter 
-      year: 2020-now
+    - title: Scholarship Chair, Alpha Sigma Kappa-Women in Technical Studies, Alpha Alumni Chapter 
+      year: 2020 - now
       description: Organizing and distributing yearly scholarships to women in undergraduate STEM studies
 
 - title: Honors and Awards
@@ -71,7 +69,7 @@
         - UNIL Master`s Grant  
     - year: 2020
       items: 
-        - College of Biological Sciences Dean`s List- 
+        - College of Biological Sciences Dean`s List 
 
 - title: Other Interests
   type: list
