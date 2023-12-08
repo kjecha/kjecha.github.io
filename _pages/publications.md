@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /publications/
-title: publications
-description: Coming Soon! Still just starting
+permalink: /presentations/
+title: presentations
+description: posters and talks
 nav: true
 nav_order: 1
 ---
