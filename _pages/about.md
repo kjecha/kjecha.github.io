@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. PhD Student, University of Lausanne, Switzerland
+subtitle: PhD Student, University of Lausanne, Switzerland
 
 profile:
   align: right
   image: Kj.flampic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Université de Lausanne, Switzerland</p>
+    <p>Université de Lausanne</p>
     <p>kristine.jecha(@)unil.ch</p>
-    <p>https://www.unil.ch/dee/home/menuguid/people/graduate-students/kristine-jecha.html</p>
+    <p><a href="https://www.unil.ch/dee/home/menuguid/people/graduate-students/kristine-jecha.html" target="_blank">UNIL Profile</a></p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts

@@ -71,7 +71,7 @@
       items: 
         - College of Biological Sciences Dean's List 
 
-- title: Other Interests
+- title: Skills
   type: list
   contents:
-    - "<u>Hobbies:</u> Rock Climbing, Knitting/Crochet, Cello"
+    - "<u>Bioinformatics:</u> R, Python, UNIX, DNA alignment, data visualization, genome assembly, reproducibility "
