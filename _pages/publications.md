@@ -16,4 +16,4 @@ nav_order: 1
 </div>
 
 ## Talks    
-Coming Soon!  
+  Coming soon!  
