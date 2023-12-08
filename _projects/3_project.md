@@ -3,7 +3,6 @@ layout: page
 title: Bioinformatics
 description: Computational based evoltionary biology
 img: assets/img/compbio.jpeg
-redirect: https://unsplash.com
 importance: 3
 category: research
 ---
@@ -11,7 +10,7 @@ category: research
 Analyzing DNA and other biologcial data through bioinformatics opens the world to more research opportunities and scientific discoveries.  
 
 I have been learning R, Python, and UNIX as I strive to understand how different mechanisms affect the genomes of insects.
-
+  
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
