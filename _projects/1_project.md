@@ -1,16 +1,16 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: Insect Parthenogenesis
+description: Understanding the origin of parthenogenesis in insects
 img: assets/img/12.jpg
 importance: 1
-category: work
-related_publications: einstein1956investigations, einstein1950meaning
+category: research
+related_publications: 
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+The ability of certain animals to reproduce without the need for a mate calls into question the need for sex in the first place. Investigating how different species have transitioned from sexual to asexual reproduction shines a light on the benefits and consequences of each reproductive mode.  
+
+I am investigating the origin of all-female, parthenogenetic populations of the ladybug *Nephus voeltzkowi*. These populations are triploid, infected with *Wolbachia*, and of hybrid origin, all well-known features of transitions to parthenogenesis in insects. The presence of sexual populations without these characters gives us a unique opportunity to study which of these spurred the transition.
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
