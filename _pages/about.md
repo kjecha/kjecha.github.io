@@ -9,9 +9,9 @@ profile:
   image: Kj.flampic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Biophore</p>
-    <p>Université de Lausanne</p>
-    <p>1015 Lausanne, Switzerland</p>
+    <p>Université de Lausanne, Switzerland</p>
+    <p>kristine.jecha(@)unil.ch</p>
+    <p>https://www.unil.ch/dee/home/menuguid/people/graduate-students/kristine-jecha.html</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
