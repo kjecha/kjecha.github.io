@@ -8,7 +8,8 @@ category: research
 ---
 
 Hybridization between species has long been considered an evolutionary “dead-end” as instances of hybridization can result in infertile offspring. Understanding the evolutionary dynamics of hybridization and the causes and consequences it can have on species can shed light on this important but understudied driver of diversification.
-
+  
+I am studying the presence and frequency of hybrization and introgression between *Lasius* ant species using molecular methods to uncover genetic admixture between the species. Additionally, understanding the role hybridization played in the transition of *Nephus voeltzkowi* ladybugs to parthenogenesis can demonstrate the role that hybridization plays in species evolution.
   
 
 <div class="row">

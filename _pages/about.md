@@ -19,7 +19,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a PhD student at the University of Lausanne in Pr. Tanja Schwander's group.  
+I am a PhD student at the University of Lausanne in Tanja Schwander's group.  
 My thesis focuses on the genomic causes and consequences of insect hybridization.  
 
 My current projects focus on molecularly identifying species within the *Lasius* genus of ants with contaminated RAD-seq data and understanding the origins of parthenogenetic populations of the ladybug *Nephus voeltzkowi*.  
+   
+I enjoy learning and applying new bioinformatics techniques. I have become proficient in analyzing various genetic and genomic datasets. 

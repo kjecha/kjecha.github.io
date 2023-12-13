@@ -8,9 +8,9 @@ category: research
 related_publications: 
 ---
 
-The ability of certain animals to reproduce without the need for a mate calls into question the need for sex in the first place. Investigating how different species have transitioned from sexual to asexual reproduction shines a light on the benefits and consequences of each reproductive mode.  
+The ability of certain animals to reproduce without the need for a mate calls into question the need for sex in the first place. Investigating how different species have transitioned from sexual to asexual reproduction shines a light on the benefits and consequences of these different reproductive modes.  
 
-I am investigating the origin of all-female, parthenogenetic populations of the ladybug *Nephus voeltzkowi*. These populations are triploid, infected with *Wolbachia*, and of hybrid origin, all well-known features of transitions to parthenogenesis in insects. The presence of sexual populations without these characters gives us a unique opportunity to study which of these spurred the transition.
+I am investigating the origin of all-female, parthenogenetic populations of the ladybug *Nephus voeltzkowi*. These populations are triploid, are infected with the parthenogenesis-inducing bacteria *Wolbachia*, and are of hybrid origin. These are all well-known features insect lineages that have transisitioned to parthenogenesis. The presence of sexual populations without these characters gives us a unique opportunity to study which of these features originally spurred the transition.
 
 
 
