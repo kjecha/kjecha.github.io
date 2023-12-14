@@ -2,7 +2,7 @@
 layout: page
 title: Bioinformatics
 description: Computational based evolutionary biology
-img: assets/img/compbio.jpeg
+img: assets/img/chord.jpeg
 importance: 3
 category: research
 ---

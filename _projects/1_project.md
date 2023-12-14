@@ -2,7 +2,7 @@
 layout: page
 title: Parthenogenesis
 description: Understanding the origin of parthenogenesis in insects
-img: assets/img/insectstudy.jpeg
+img: assets/img/nephus_11.png
 importance: 1
 category: research
 related_publications: 

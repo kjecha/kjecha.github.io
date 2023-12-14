@@ -2,7 +2,7 @@
 layout: page
 title: Hybridization
 description: Understanding how hybridization is affected by and affects insect genomes
-img: assets/img/insecthybrid.jpeg
+img: assets/img/ant.jpg
 importance: 2
 category: research
 ---
