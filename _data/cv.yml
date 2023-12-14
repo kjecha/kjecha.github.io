@@ -11,16 +11,16 @@
   contents:
     - title: PhD in Ecology and Evolution
       institution: University of Lausanne, Lausanne, Switzerland
-      year: 2020 - now
+      year: 2022 - now
       description:
-        - title: Thesis- Genomic Causes and Consequences of Hybridization in Insects
+        - title: Thesis-Genomic Causes and Consequences of Hybridization in Insects
           contents:
             - Tanja Schwander
     - title: MSc in Behaviour, Evolution, and Conservation. Specialization in Computational Ecology and Evolution
       institution: University of Lausanne, Lausanne, Switzerland
       year: 2020 - 2022
       description:
-        - title: Thesis- The Effects of Genome Features on Tandem Repeat DNA Patterns
+        - title: Thesis-The Effects of Genome Features on Tandem Repeat DNA Patterns
           contents:
             - Tanja Schwander
     - title: BSc in Ecology, Evolution, and Animal Behavior / Plant and Microbial Biology
@@ -54,7 +54,7 @@
 - title: Outreach
   type: time_table
   contents:
-    - title: Scholarship Chair - Alpha Sigma Kappa-Women in Technical Studies, Alpha Alumni Chapter 
+    - title: Scholarship Chair-Alpha Sigma Kappa/Women in Technical Studies, Alpha Alumni Chapter 
       year: 2020 - now
       description: Organizing and distributing yearly scholarships to women in undergraduate STEM studies
 
@@ -69,9 +69,9 @@
         - UNIL Master's Grant  
     - year: 2020
       items: 
-        - College of Biological Sciences Dean's List 
+        - UMN College of Biological Sciences Dean's List 
 
 - title: Skills
   type: list
   contents:
-    - "<u>Bioinformatics:</u> R, Python, UNIX, DNA alignment, data visualization, genome assembly, reproducibility "
+    - "<u>Bioinformatics:</u> R, Python, UNIX, HPC cluster, DNA alignment, data visualization, genome assembly, reproducibility "
