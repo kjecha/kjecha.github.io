@@ -4,7 +4,7 @@ title: Hybridization
 description: Understanding how hybridization is affected by and affects insect genomes
 img: assets/img/insecthybrid.jpeg
 importance: 2
-category: research
+category: PhD
 ---
 
 Hybridization between species has long been considered an evolutionary “dead-end” as instances of hybridization can result in infertile offspring. Understanding the evolutionary dynamics of hybridization and the causes and consequences it can have on species can shed light on this important but understudied driver of diversification.

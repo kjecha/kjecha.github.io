@@ -4,7 +4,7 @@ title: Bioinformatics
 description: Computational based evolutionary biology
 img: assets/img/compbio.jpeg
 importance: 3
-category: research
+category: PhD
 ---
 
 Analyzing DNA and other biologcial data through bioinformatics opens the world to more research opportunities and scientific discoveries.  
