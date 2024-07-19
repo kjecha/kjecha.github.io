@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started my research visit at the University of Toulouse, France to perform an experiment on *Nephus voeltzkowi*
+Started my 3-month research visit at the University of Toulouse, France to perform an experiment on *Nephus voeltzkowi*. Very interesting results! 
