@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 I am a PhD student at the University of Lausanne in [Tanja Schwander's](https://www.unil.ch/dee/schwander-group) group.  
-My thesis focuses on the genomic causes and consequences of insect hybridization.  
+My thesis focuses on determining the causes and consequences of the transition to parthenogenesis in insects.  
 
 My current projects focus on molecularly identifying species within the [*Lasius*](https://en.wikipedia.org/wiki/Lasius) genus of ants with contaminated RAD-seq data and understanding the origins of parthenogenetic populations of the ladybug [*Nephus voeltzkowi*](https://en.wikipedia.org/wiki/Nephus_voeltzkowi).  
    
