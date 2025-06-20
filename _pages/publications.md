@@ -2,7 +2,7 @@
 layout: page
 permalink: /presentations/
 title: presentations
-description: posters and talks
+description: work shared at conferences
 nav: true
 nav_order: 1
 ---
