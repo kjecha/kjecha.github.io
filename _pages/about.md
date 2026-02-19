@@ -22,6 +22,7 @@ social: true  # includes social icons at the bottom of the page
 I am a PhD student at the University of Lausanne in [Tanja Schwander's](https://www.unil.ch/dee/schwander-group) group.  
 My thesis focuses on determining the causes and consequences of the transition to parthenogenesis in insects.  
 
-My current projects focus on molecularly identifying species within the [*Lasius*](https://en.wikipedia.org/wiki/Lasius) genus of ants with contaminated RAD-seq data and understanding the origins of parthenogenetic populations of the ladybug [*Nephus voeltzkowi*](https://en.wikipedia.org/wiki/Nephus_voeltzkowi).  
+
+My current projects focus on understanding the origins of parthenogenetic populations of the ladybug [*Nephus voeltzkowi*](https://en.wikipedia.org/wiki/Nephus_voeltzkowi), including the role that *Wolbachia* has on the transition from sexual reproduction to parthenogenesis in these populations of ladybug, as well as its role in maintaining parthenogenetic populations of *Aptinothrips* grass thrips.      
    
 I enjoy learning and applying new bioinformatics techniques. I have become proficient in analyzing various genetic and genomic datasets. 
