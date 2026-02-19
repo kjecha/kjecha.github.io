@@ -4,7 +4,7 @@ title: Wolbachia
 description: Reproductive manipulation by a bacterial endosymbiont
 img: assets/img/thrips.jpg
 importance: 4
-category: fun
+category: research
 ---
 
 
