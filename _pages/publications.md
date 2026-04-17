@@ -11,7 +11,7 @@ nav_order: 5
 <!-- _pages/publications.md -->
 <div class="publications">
 
-[Google Scholar](https://scholar.google.com/citations?user=u3cOmIwAAAAJ&hl=en)
+[My Google Scholar](https://scholar.google.com/citations?user=u3cOmIwAAAAJ&hl=en)
 
 {% bibliography -f papers.bib %}
 
