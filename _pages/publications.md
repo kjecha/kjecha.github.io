@@ -1,16 +1,19 @@
 ---
 layout: page
-permalink: /presentations/
-title: presentations
-description: work shared at conferences
+permalink: /publications/
+title: publications
+description: recent publications
 nav: true
-nav_order: 1
+nav_order: 5
 ---
 
-## Posters & Presentations
+## Preprints & Publications
 <!-- _pages/publications.md -->
 <div class="publications">
 
-{% bibliography -f {{ site.scholar.bibliography }} %}
+[Google Scholar](https://scholar.google.com/citations?user=u3cOmIwAAAAJ&hl=en)
+
+{% bibliography -f papers.bib %}
 
 </div>
+
